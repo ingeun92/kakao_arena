@@ -1,5 +1,6 @@
-res
+data
 arena_data
+.ipynb_checkpoints
 *.swp
 .DS_Store
 __pycache__
